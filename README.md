@@ -42,3 +42,30 @@ customizable-qr-code-generator/
     │
     └── utils/
         └── cn.ts
+
+
+1. Clone the repository
+git clone https://github.com/your-username/QR-Code-Generator.git
+2. Open the project folder
+cd QR-Code-Generator
+3. Install dependencies
+npm install
+4. Run the development server
+npm run dev
+5. Open the project in the browser
+
+After running the command, Vite will show a local link such as:
+
+http://localhost:5173/
+
+Open that link in your browser.
+
+How to Use
+Enter a text or URL in the input field.
+Choose the foreground color of the QR code.
+Choose the background color.
+Adjust the QR code size using the size slider.
+Upload a logo image if needed.
+Adjust the logo size.
+Preview the QR code.
+Click Download PNG to save the QR code.
